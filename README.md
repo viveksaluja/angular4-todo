@@ -1,29 +1,7 @@
 # README #
 
-Run Npm Start, install dependencies if required
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+1. CLone Directory
+2. Run Npm install 
+3. check database config in api/config/database.php
+4. Databse file included apitest (1).sql
+5. Backend is php
